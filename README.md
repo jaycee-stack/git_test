@@ -1,0 +1,1 @@
+This is Jada's first git project!
